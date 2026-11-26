@@ -1,6 +1,9 @@
 # airline-satisfaction
 Predicts whether an airline passenger is satisfied using HistGradientBoosting and CatBoost, tuned with Optuna.
 
+#Data
+Data link: https://www.kaggle.com/competitions/playground-series-s6e10/data
+
 # Results
 | Model    | AUC    |
 |----------|--------|
